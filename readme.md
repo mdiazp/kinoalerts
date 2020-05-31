@@ -3,13 +3,13 @@
 
 # Installation on Linux
 - Open the file env-examples.sh and set your correct bot token.
-- Execute the command: ./run-on-lunx.sh
+- Execute the command: ./run-on-linux.sh
 
 # Configuration
 ## Environment config:
-TELEGRAM_BOT_TOKEN: The token of the bot you will use to notificate
-INTERVAL_TIME_TO_QUERY: How many seconds the system delays between calls to the resources
-INTERVAL_TIME_TO_NOTIFICATE: How many seconds the system notificate about some alert already founded
+- TELEGRAM_BOT_TOKEN: The token of the bot you will use to notificate
+- INTERVAL_TIME_TO_QUERY: How many seconds the system delays between calls to the resources
+- INTERVAL_TIME_TO_NOTIFICATE: How many seconds the system notificate about some alert already founded
 
 ## Resources config:
 The resources.json file has this structue:

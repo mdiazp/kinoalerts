@@ -1,0 +1,94 @@
+{
+    "resources": [
+        {
+            "name": "TuEnvio => Pinar => Alimentos Refrigerados",
+            "chatID": "-1001283379000",
+            "url": "https://www.tuenvio.cu/pinar/Products?depPid=46081",
+            "alerts": [
+                {
+                    "name": "Pollo",
+                    "regexPatterns": ["pollo"]
+                },
+                {
+                    "name": "Carne de Res",
+                    "regexPatterns": [" res "]
+                },
+                {
+                    "name": "Salchichon",
+                    "regexPatterns": ["salchichon"]
+                }
+            ]
+        },
+        {
+            "name": "TuEnvio => Pinar => Aderezos, Aliños y Salsas",
+            "chatID": "-445370861",
+            "url": "https://www.tuenvio.cu/pinar/Products?depPid=54",
+            "alerts": [
+                {
+                    "name": "Aceite",
+                    "regexPatterns": ["aceite"]
+                }
+            ]
+        },
+        {
+            "name": "TuEnvio => Pinar => Aseo Personal",
+            "chatID": "-343870276",
+            "url": "https://www.tuenvio.cu/pinar/Products?depPid=46077",
+            "alerts": [
+                {
+                    "name": "Champu",
+                    "regexPatterns": ["champu"]
+                },
+                {
+                    "name": "Pasta Dental",
+                    "regexPatterns": ["dental", "pasta dental"]
+                },
+                {
+                    "name": "Jabon",
+                    "regexPatterns": ["jabon ", "jabón"]
+                }
+            ]
+        },
+        {
+            "name": "TuEnvio => Pinar => Cuidado de Cabello",
+            "chatID": "-426554949",
+            "url": "https://www.tuenvio.cu/pinar/Products?depPid=46080",
+            "alerts": [
+                {
+                    "name": "Champu",
+                    "regexPatterns": ["champu"]
+                }
+            ]
+        },
+        {
+            "name": "TuEnvio => Pinar => Detergentes y Jabones",
+            "chatID": "-343941267",
+            "url": "https://www.tuenvio.cu/pinar/Products?depPid=100002",
+            "alerts": [
+                {
+                    "name": "Detergente",
+                    "regexPatterns": ["detergente "]
+                },
+                {
+                    "name": "Jabon",
+                    "regexPatterns": ["jabon ", "jabón"]
+                }
+            ]
+        },
+        {
+            "name": "5tay42 => Alimentos Refrigerados",
+            "chatID": "-418911671",
+            "url": "https://5tay42.xetid.cu/100003-alimentos-refrigerados",
+            "alerts": [
+                {
+                    "name": "Pollo",
+                    "regexPatterns": ["pollo"]
+                },
+                {
+                    "name": "Carne de Res",
+                    "regexPatterns": [" res "]
+                }
+            ]
+        }
+    ]
+}

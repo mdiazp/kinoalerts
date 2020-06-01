@@ -54,7 +54,7 @@ The online shop https://www.tuenvio.cu offers several products, and you wants to
 
 ## Steps
 1. Create the telegram bot and get the bot_token
-2. Create the telegram group where you wants the bot notificates
+2. Create the telegram group where you want the bot to notifiy
 3. Add the bot as a member of the group
 4. Get the telegram group chatID
 5. Set the env-example.sh file with the bot_token correctly configured

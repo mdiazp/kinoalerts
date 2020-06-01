@@ -20,47 +20,6 @@
             ]
         },
         {
-            "name": "TuEnvio => Pinar => Aderezos, Aliños y Salsas",
-            "chatID": "-445370861",
-            "url": "https://www.tuenvio.cu/pinar/Products?depPid=54",
-            "alerts": [
-                {
-                    "name": "Aceite",
-                    "regexPatterns": ["aceite"]
-                }
-            ]
-        },
-        {
-            "name": "TuEnvio => Pinar => Aseo Personal",
-            "chatID": "-343870276",
-            "url": "https://www.tuenvio.cu/pinar/Products?depPid=46077",
-            "alerts": [
-                {
-                    "name": "Champu",
-                    "regexPatterns": ["champu"]
-                },
-                {
-                    "name": "Pasta Dental",
-                    "regexPatterns": ["dental", "pasta dental"]
-                },
-                {
-                    "name": "Jabon",
-                    "regexPatterns": ["jabon ", "jabón"]
-                }
-            ]
-        },
-        {
-            "name": "TuEnvio => Pinar => Cuidado de Cabello",
-            "chatID": "-426554949",
-            "url": "https://www.tuenvio.cu/pinar/Products?depPid=46080",
-            "alerts": [
-                {
-                    "name": "Champu",
-                    "regexPatterns": ["champu"]
-                }
-            ]
-        },
-        {
             "name": "TuEnvio => Pinar => Detergentes y Jabones",
             "chatID": "-343941267",
             "url": "https://www.tuenvio.cu/pinar/Products?depPid=100002",
